@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546279282157",
+    "firebase_url": "https://yourtaskapp-d8dee.firebaseio.com",
+    "project_id": "yourtaskapp-d8dee",
+    "storage_bucket": "yourtaskapp-d8dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546279282157:android:fd1fb3bf57d2787a",
+        "android_client_info": {
+          "package_name": "zibranlab.yourtaskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546279282157-tjojspb8gr57l5duu31e1jmu9le09b61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-FUwj9pTm7c1fJLOyWpya-ZzvhL_2m7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
